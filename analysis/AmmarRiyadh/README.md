@@ -10,3 +10,5 @@ In Progress
 - original dataframe.
 - Method chaining into a function
 - cleaned and processed dataframe.
+- EDA
+- Plotting
