@@ -1,11 +1,11 @@
 # Analysis on The Possible Impacts of Asteroid on Earth
 
 ## Research Question: 
-In Progress
+What are the most common parameters that define an asteriod?
 
 ## Milestone 1 = Complete
-## Milestone 2 = Task 1 and 2 Compete (add task 2: in there)
-## Mileston 3 = Done , needs a review
+## Milestone 2 = Task 1,2,3 Complete
+
 ## Includes:
 - original dataframe.
 - Method chaining into a function
