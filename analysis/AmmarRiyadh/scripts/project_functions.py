@@ -6,7 +6,7 @@ import pandas as pd
 def load_and_process(url_or_path_to_csv_file):
     df1 = (pd.read_csv(url_or_path_to_csv_file).dropna() 
           .rename(columns={"Period Start": "Risk Period Start", "Period End": "Risk Period End", "Object Name": "Asteroid Name"})
-          .rename(columns={"Asteroid Velocity": "Asteroid Velocity (km/s)", "Asteroid Magnitude": "Asteroid Magnitude (au)"})
+          .rename(columns={"Asteroid Velocity": "Asteroid Velocity (km/s)", "Asteroid Magnitude": "Asteroid Magnitude (m)"})
     )
 
     # Method Chain 2 
