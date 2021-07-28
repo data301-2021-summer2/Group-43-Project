@@ -18,7 +18,6 @@ The data is separated by asteroid name and each of their corresponding character
 ## Team Members
 
 - Ammar Riyadh: Love playing sports!
-- Leah Plomp: Always tired!
 - Jagdeep Dhillon: Love working out!
 
 ## References
