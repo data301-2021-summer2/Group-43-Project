@@ -1,1 +1,1 @@
-Directory including Leah Plomp drafts and analysis.
+Withdrew from the course at the early stages of Milestone2. 
