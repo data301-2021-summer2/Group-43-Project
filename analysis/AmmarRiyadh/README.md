@@ -4,7 +4,7 @@
 What are the most common parameters that define an asteriod?
 
 ## Milestone 1 = Complete
-## Milestone 2 = Task 1,2,3 Complete
+## Milestone 2 = Complete
 
 ## Includes:
 - original dataframe.
